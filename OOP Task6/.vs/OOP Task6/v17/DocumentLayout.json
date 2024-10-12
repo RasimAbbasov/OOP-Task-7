@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rasim\\source\\repos\\OOP Task6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4795B-7BB5-46CF-AA9B-5274BAFAFCC4}|OOP Task6.csproj|c:\\users\\rasim\\source\\repos\\oop task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4795B-7BB5-46CF-AA9B-5274BAFAFCC4}|OOP Task6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4795B-7BB5-46CF-AA9B-5274BAFAFCC4}|OOP Task6.csproj|c:\\users\\rasim\\source\\repos\\oop task6\\enum\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4795B-7BB5-46CF-AA9B-5274BAFAFCC4}|OOP Task6.csproj|solutionrelative:enum\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4795B-7BB5-46CF-AA9B-5274BAFAFCC4}|OOP Task6.csproj|c:\\users\\rasim\\source\\repos\\oop task6\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4795B-7BB5-46CF-AA9B-5274BAFAFCC4}|OOP Task6.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4795B-7BB5-46CF-AA9B-5274BAFAFCC4}|OOP Task6.csproj|c:\\users\\rasim\\source\\repos\\oop task6\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4795B-7BB5-46CF-AA9B-5274BAFAFCC4}|OOP Task6.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4795B-7BB5-46CF-AA9B-5274BAFAFCC4}|OOP Task6.csproj|c:\\users\\rasim\\source\\repos\\oop task6\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4795B-7BB5-46CF-AA9B-5274BAFAFCC4}|OOP Task6.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4795B-7BB5-46CF-AA9B-5274BAFAFCC4}|OOP Task6.csproj|c:\\users\\rasim\\source\\repos\\oop task6\\exceptions\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4795B-7BB5-46CF-AA9B-5274BAFAFCC4}|OOP Task6.csproj|solutionrelative:exceptions\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\OOP Task6\\Exceptions\\CustomExceptions.cs",
+              "RelativeDocumentMoniker": "Exceptions\\CustomExceptions.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\OOP Task6\\Exceptions\\CustomExceptions.cs",
+              "RelativeToolTip": "Exceptions\\CustomExceptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:15:12.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\OOP Task6\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\OOP Task6\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:54:31.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\OOP Task6\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\OOP Task6\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:32:43.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\OOP Task6\\Enum\\Currency.cs",
+              "RelativeDocumentMoniker": "Enum\\Currency.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\OOP Task6\\Enum\\Currency.cs",
+              "RelativeToolTip": "Enum\\Currency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:16:05.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\OOP Task6\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\OOP Task6\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:26:59.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\OOP Task6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\OOP Task6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwEgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:21:06.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
