@@ -1,0 +1,15 @@
+C:\Users\Rasim\source\repos\OOP Task7\obj\Debug\net8.0\OOP Task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rasim\source\repos\OOP Task7\obj\Debug\net8.0\OOP Task7.AssemblyInfoInputs.cache
+C:\Users\Rasim\source\repos\OOP Task7\obj\Debug\net8.0\OOP Task7.AssemblyInfo.cs
+C:\Users\Rasim\source\repos\OOP Task7\obj\Debug\net8.0\OOP Task7.csproj.CoreCompileInputs.cache
+C:\Users\Rasim\source\repos\OOP Task7\obj\Debug\net8.0\OOP Task7.sourcelink.json
+C:\Users\Rasim\source\repos\OOP Task7\bin\Debug\net8.0\OOP Task7.exe
+C:\Users\Rasim\source\repos\OOP Task7\bin\Debug\net8.0\OOP Task7.deps.json
+C:\Users\Rasim\source\repos\OOP Task7\bin\Debug\net8.0\OOP Task7.runtimeconfig.json
+C:\Users\Rasim\source\repos\OOP Task7\bin\Debug\net8.0\OOP Task7.dll
+C:\Users\Rasim\source\repos\OOP Task7\bin\Debug\net8.0\OOP Task7.pdb
+C:\Users\Rasim\source\repos\OOP Task7\obj\Debug\net8.0\OOP Task7.dll
+C:\Users\Rasim\source\repos\OOP Task7\obj\Debug\net8.0\refint\OOP Task7.dll
+C:\Users\Rasim\source\repos\OOP Task7\obj\Debug\net8.0\OOP Task7.pdb
+C:\Users\Rasim\source\repos\OOP Task7\obj\Debug\net8.0\OOP Task7.genruntimeconfig.cache
+C:\Users\Rasim\source\repos\OOP Task7\obj\Debug\net8.0\ref\OOP Task7.dll
